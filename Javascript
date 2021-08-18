@@ -1,0 +1,4 @@
+Var num1 = 10;
+Var num2 = 20;
+Sum = num1+num2;
+Console.log("Sum");
